@@ -1,5 +1,5 @@
 # InnovationStack
-Build a qualitative research tool for structuring the innovation process. Currently we are only targeting one user (professor Dr. Paul Fearis for Design Health at Duke) with one use case (web app). We aim to achieve minimum utility for usability. Two key features are on our plate:
+Build a qualitative research tool for structuring the innovation process. Currently we are only targeting one user (professor Dr. Paul Fearis from Design Health at Duke) with one use case (web app). We aim to achieve minimum utility for usability. Two key features are on our plate:
 1. process handwritten notes in the Operating Room from into a digital format 
 - timestamp : observation
 - slack-style user input i.e. a trigger to generate new timestamp or previous timestamp + one min etc.
