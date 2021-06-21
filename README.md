@@ -16,3 +16,17 @@ Two-tier note hierarchy
 Currently export to csv
 - in the future: store in database, generate visualization and insights
 
+Technologies
+- Database: MongoDB
+- Frontend: React, Node, 
+- Git: main (rarely touch), testing branch, feature branches; archive for storing features (on the frontend)
+remote server
+git clone <repo>
+git checkout -b <branch>
+git add <reactComponent.js>
+git commit -m "Here's what I did"
+git push
+from <Branch> -> testing //merge branch to testing
+- Project workflow: Trello (follows Scrum protocols)
+
+
