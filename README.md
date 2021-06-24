@@ -18,7 +18,9 @@ Currently export to csv
 
 Technologies
 - Database: MongoDB
-- Frontend: React, Node, 
+- Frontend: React, Node, npm
+- API development collaboration and testing: Postman
+- Cloud storage (free): Heroku
 - Git: main (rarely touch), testing branch, feature branches; archive for storing features (on the frontend)
 remote server
 git clone <repo>
