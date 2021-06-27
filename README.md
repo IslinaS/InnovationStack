@@ -5,6 +5,8 @@ Build a qualitative research tool for structuring the innovation process. Curren
 - slack-style user input i.e. a trigger to generate new timestamp or previous timestamp + one min etc.
 2. video with note-taking capacity
 
+Link to Team Working Github: https://github.com/innovation-stack-engineering
+
 Asset: any object 
 - a note, an imported video are separate assets
 - video, a note created and paired with the video (data structure?)
