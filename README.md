@@ -22,7 +22,7 @@ Technologies
 - Database: MongoDB
 - Frontend: React, Node, npm
 - API development collaboration and testing: Postman
-- Cloud storage (free): Heroku
+- Cloud storage (free): Heroku, switching to AWS S3
 - Git: main (rarely touch), testing branch, feature branches; archive for storing features (on the frontend)
 remote server
 git clone <repo>
