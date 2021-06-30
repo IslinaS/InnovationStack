@@ -30,6 +30,7 @@ git checkout -b <branch>
 git add <reactComponent.js>
 git commit -m "Here's what I did"
 git push
+  - Merging: git pull, git checkout branch, git push to main, git fetch origin --prune, git checkout -D branch
 from <Branch> -> testing //merge branch to testing
 - Project workflow: Trello (follows Scrum protocols)
 
